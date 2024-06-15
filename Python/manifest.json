@@ -1,0 +1,21 @@
+{
+  "display_name": "Python 3.12, Pytest 7.4",
+  "image_name": "cyberdojofoundation/python_pytest:2b04bec",
+  "filename_extension": [
+    ".py"
+  ],
+  "max_seconds": 10,
+  "tab_size": 4,
+  "exercise": "Roman Numerals",
+  "version": 2,
+  "created": [
+    2024,
+    6,
+    15,
+    1,
+    10,
+    6,
+    809587
+  ],
+  "id": "LPr7BU"
+}
