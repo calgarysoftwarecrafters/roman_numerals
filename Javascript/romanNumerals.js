@@ -1,7 +1,7 @@
 'use strict';
 
 function answer() {
-  return 6 * 9;
+  return;
 }
 
 module.exports = answer;
