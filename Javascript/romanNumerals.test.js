@@ -3,10 +3,6 @@
 const answer = require('./romanNumerals');
 
 describe('answer', () => {
-  it('to life the universe and everything', () => {
-    expect(answer()).toEqual(42);
-  });
-
   it.each([
     [1, "I"],
     [2, "II"],
