@@ -4,6 +4,11 @@
     "test": "jest --coverage"
   },
   "jest": {
-    "coverageReporters": [ "text" ]
+    "coverageReporters": [
+      "text"
+    ]
+  },
+  "dependencies": {
+    "jest": "^29.7.0"
   }
 }
